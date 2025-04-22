@@ -18,8 +18,6 @@
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
-![Aa]ssets/**/*.meta
-
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
@@ -75,6 +73,4 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-ProjectSettings/ProjectVersion.txt
-Packages/manifest.json
-Packages/packages-lock.json
+
